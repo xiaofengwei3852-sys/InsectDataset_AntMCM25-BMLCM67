@@ -1,0 +1,5 @@
+通过网盘分享的文件：Insect Species Image Dataset.zip
+链接: https://pan.baidu.com/s/1efyZDHYxmDQdeYNNPOa3vQ?pwd=ztuq 提取码: ztuq 
+--来自百度网盘超级会员v4的分享
+
+https://huggingface.co/datasets/wxxxll/InsectSpecies_Image_Dataset
